@@ -29,3 +29,6 @@ Based on our analysis ($k=4$), we identified the following segments:
 
 ## Conclusion
 While K-Means provided a practical framework for business strategy, the **Gaussian Mixture Model (GMM)** proved to be the most mathematically accurate for this specific dataset. DBSCAN added critical value by identifying extreme outliers that do not follow standard market trends.
+
+## Link to the dataset on Kaggle
+[Flipkart Retail Product Dataset (Kaggle)](https://www.kaggle.com/datasets/rohiteng/flipkart-retail-product-dataset)
