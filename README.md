@@ -1,4 +1,4 @@
-# Flipkart Product Clustering & Outlier Detection 🛒
+# Flipkart Product Clustering & Outlier Detection 🛒🏷️
 
 ## Overview
 This project focuses on market segmentation and anomaly detection using a Flipkart e-commerce dataset (80,000 products). By applying unsupervised learning, we identified distinct product categories based on pricing, discounts, and logistics.
